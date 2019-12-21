@@ -1,0 +1,2 @@
+#!/bin/bash
+Saturday is a good day
